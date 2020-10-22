@@ -12,3 +12,9 @@
 
 ## 3. Fork하기
 각자 Fork하여 본인 번호의 파일을 열어서 자신의 이름과 저장소를 링크 연결해보기
+* Setting에서 github pages 설정하여 웹으로 연결되는지 확인
+* 원본저장소와 Fork한 저장소 설명은 [여기 링크](https://coding-groot.tistory.com/80)
+* PR생성하여 보내기
+
+## 4. Clone하기
+
